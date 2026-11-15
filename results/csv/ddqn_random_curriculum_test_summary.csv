@@ -1,0 +1,2 @@
+Model,Obstacle_Density,Test_Episodes,Success_Rate_Percent,Collision_Rate_Percent,Average_Cumulative_Reward,Average_Reward_Per_Step,Average_Episode_Length,Average_Path_Length,Average_Final_Distance,Average_Test_Time_Seconds,Total_Testing_Time_Seconds
+DDQN,0.15,50,0.0,84.0,-522.3220000000001,-3.4821466666666665,150.0,151.0,34.38,0.01819601058959961,0.9212040901184082

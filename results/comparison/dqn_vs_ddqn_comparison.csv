@@ -1,0 +1,11 @@
+Metric,DQN,DDQN
+Training Time (seconds),198.23,190.36
+Average Training Reward,-48.12,-14.27
+Average Training Loss,1.19,1.49
+Training Success Rate (%),77.2,81.2
+Final Moving Average Reward,3.33,189.34
+Test Success Rate (%),100.0,100.0
+Test Collision Rate (%),0.0,0.0
+Average Test Reward,206.4,206.4
+Average Test Episode Length,38.0,38.0
+Average Test Path Length,39.0,39.0

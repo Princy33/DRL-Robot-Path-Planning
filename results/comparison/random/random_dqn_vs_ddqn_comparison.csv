@@ -1,0 +1,11 @@
+Metric,DQN,DDQN
+Average Training Reward,-196.42520000000005,-194.20900000000003
+Average Training Loss,0.629381732819199,0.6462460838025297
+Training Success Rate (%),16.2,22.2
+Final 20-Episode Reward,-368.32,-398.1750000000002
+Test Success Rate (%),0.0,0.0
+Test Collision Rate (%),86.0,84.0
+Average Test Reward,-503.9,-522.3220000000001
+Average Test Episode Length,150.0,150.0
+Average Test Path Length,151.0,151.0
+Average Final Distance,35.3,34.38

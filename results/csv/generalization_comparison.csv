@@ -1,0 +1,3 @@
+Model,Success Rate (%),Collision Rate (%),Average Reward,Average Episode Length,Average Path Length,Average Final Distance
+DQN,0.0,100.0,-1048.0,150.0,151.0,38.0
+DDQN,0.0,100.0,-3027.0840000000003,150.0,151.0,35.78
